@@ -8,12 +8,4 @@ public class hidro : MonoBehaviour {
 	[TagSelector]
 	public string MyTag;
 
-	void Start () {
-		
-	}
-	
-	// Update is called once per frame
-	void Update () {
-		
-	}
 }
